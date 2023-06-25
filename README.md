@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luciano Rielo</h1>
-<h3 align="center">A person with huge interest in science. I'm from Argentina.</h3>
+<h1 align="center">Hi 👋, I'm Luciano Rielo, from Argentina</h1>
+<h3 align="center">A person with huge interest in science and find solutions through coding.</h3>
 
 - 🔭 Currently I am hard learning to **generate solutions with machine learning codes**
 
